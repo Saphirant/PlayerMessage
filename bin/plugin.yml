@@ -1,0 +1,13 @@
+main: me.saphirant.playerMessage.Main
+version: 1.0
+name: PlayerMessage
+commands:
+  setjoin:
+    description: met le message de connection
+  setleave:
+    description: met le message de deconnection
+  setkick:
+    description: met le message de kick
+  view:
+    description: permet de voir ses messages
+  
